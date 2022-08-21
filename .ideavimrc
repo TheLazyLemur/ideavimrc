@@ -86,7 +86,7 @@ map <leader>F <Plug>(easymotion-s)
 map <leader>f <Plug>(easymotion-f)
 
 Plug 'preservim/nerdtree'
-map <c-t>   :NERDTree<CR>
+map <c-n>   :NERDTree<CR>
 
 Plug 'tpope/vim-commentary'
 
